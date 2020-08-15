@@ -1,23 +1,21 @@
-### Hi there, I'm Suman Khdka 👋
+### Hi there, I'm Suman Khadka 👋
 
 [![Website](https://img.shields.io/website?label=SumanKhadka.Net&style=for-the-badge&url=https%3A%2F%2FSumanKhadka.net)](https://sumankhadka.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SumanKhdka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSumanKhdka&screen_name=SumanKhadka)
 
-## I'm a Software Engineer, Blogger, Developer, and Traveller!
+## I'm a Software Engineer, Blogger, Developer!
 
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books and write some stories & poem 
 
 ### Connect with me:
 
 [<img align="left" alt="sumanKhadka.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="SumanKhadka | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="SumanKhadka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="SumanKhadka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SumanKhadka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SumanKhdka | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="SumanKhdka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="SumanKhdka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SumanKhdka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
