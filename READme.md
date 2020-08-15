@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=SumanKhadka.Net&style=for-the-badge&url=https%3A%2F%2FSumanKhadka.net)](https://sumankhadka.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SumanKhdka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSumanKhdka&screen_name=SumanKhdka)
 
-## I'm a Software Engineer, Blogger, Developer!
+## I'm a Software Engineer, Full Stack Developer, Blogger!
 
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning everything 🤣
@@ -26,8 +26,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="Django" width="26px" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" />
 <img align="left" alt="PHP" width="26px" src="https://i.dlpng.com/static/png/6847681_preview.png" />
