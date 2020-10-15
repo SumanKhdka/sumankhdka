@@ -56,10 +56,10 @@
 
 ---
 
-<a href="https://github-readme-stats.vercel.app/api?username=sumankhdka&theme=dark&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumankhdka&theme=dark&show_icons=true&include_all_commits=true&theme=dark&hide=prs" alt="JShaikh's github stats" />
-</a>
-<a href="https://github.com/sumankhdka/github-readme-stats">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumankhdka&theme=dark&show_icons=true&include_all_commits=true&theme=dark" alt="Suman Khadka's github stats" />
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sumankhdka&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumankhdka&layout=compact&theme=dark" />
 </a>
 
