@@ -1,4 +1,4 @@
-### Hi there, I'm Suman Khadka 👋
+### Hi there👋, I'm Suman Khadka 
 
 [![Website](https://img.shields.io/website?label=SumanKhadka.Net&style=for-the-badge&url=https%3A%2F%2FSumanKhadka.net)](https://sumankhadka.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SumanKhdka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSumanKhdka&screen_name=SumanKhdka)
