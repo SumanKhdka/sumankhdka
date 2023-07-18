@@ -1,13 +1,6 @@
-### 👋 Hi, I'm Suman Khadka.
-
-- 🔭 I am a Passionate Software Engineer, and  Blogger from Nepal.
-- ✍️ I write [visual explanations](https://sumankhadka.net) of Software Engineering and Productivity Research on my blog
-- 🌱 I strongly believe in taking [small steps](https://github.com/sumankhdka/learning) each day to get better at my craft. 
-- 📫 How to reach me **mail@sumankhadka.net**
-- 📄 Know about my experiences [https://sumankhadka.com.np/resume](https://sumankhadka.net/resume)
-- ⚡ Fun fact **I love to Read Books and Travel**
-<span>
-  <a href="https://twitter.com/sumankhdka"><img src="https://img.shields.io/twitter/follow/sumankhdka"/></a>
-</span>
-<h3 align="right">Support:</h3>
-<span><a href="https://www.buymeacoffee.com/sumankhdka"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="110" alt="sumankhdka" /></a></span>
+Hi👋 , I'm **Suman Khadka** an ambitious **Software Engineer**, **Content Creator**, and **Blogger** hailing from the root of the Himalayas. Immersed in the breathtaking beauty of this majestic mountain range, I draw inspiration to innovate and create. With expertise in website design and development, software development, web scraping, and automation tools using Python, PHP, and JavaScript, I continuously seek new challenges and opportunities to expand my knowledge. As a passionate blogger, I share my  [insights and experiences](https://sumankhadka.net) through blogging and content creation, aiming to inspire and educate others. <br>
+🌱 I strongly believe in taking [small steps](https://github.com/sumankhdka/learning) each day to get better at my craft. 
+So, Join me on this extraordinary journey of technology and creativity.<br>
+Email: **mail@sumankhadka.net** | Website: [sumankhadka.net](https://www.sumankhadka.net) |  Twitter: [Twitter](https://www.twitter.com/sumankhdka)<br>
+<h3 align="left">Support:</h3>
+<span><a href="https://www.buymeacoffee.com/sumankhdka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="110" alt="sumankhdka" /></a></span>
