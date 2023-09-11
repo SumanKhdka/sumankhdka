@@ -3,4 +3,4 @@ Hi👋 , I'm **Suman Khadka** an ambitious **Software Engineer**, **Content Crea
 So, Join me on this extraordinary journey of technology and creativity.<br>
 Email: **mail@sumankhadka.net** | Website: [sumankhadka.net](https://www.sumankhadka.net) |  Twitter: [Twitter](https://www.twitter.com/sumankhdka)<br>
 <h3 align="left">Support:</h3>
-<span><a href="https://www.buymeacoffee.com/sumankhdka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="110" alt="sumankhdka" /></a></span>
+<span><a href="https://www.buymeacoffee.com/sumankhadka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="110" alt="sumankhadka" /></a></span>
