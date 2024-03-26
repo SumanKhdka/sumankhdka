@@ -1,23 +1,25 @@
 ### Hey, I'm Suman 👋🏽  
  An ambitious **Software Engineer**, **Content Creator**, and **Blogger** hailing from the root of the Himalayas. Immersed in the breathtaking beauty of this majestic mountain range, I draw inspiration to innovate and crafting digital experiences. 
  
- - Check out my [website](https://sumankhadka.net) to learn more about me and explore my insights and learnings.
-- In my [Newsletter](https://sumankhadka.substack.com/), I share my learnings and tips to become a better developer. 
+ - Check out my [LinkTree](https://sumankhadka.net/links) to learn more about me my social media pages, and explore my insights and learnings.
+  - You can also use [LinkTree](https://github.com/SumanKhdka/Bio-Links) on your website.
 
 ## 📦 Tools & Technologies
 
-**Programming Language:** `Python` `PHP` `GoLang` `JavaScript` 
+**Programming Language:** `Python` `PHP` `GoLang` `JavaScript` `C` `C++` `TypeScript`
 
-**Framework & Libraries:** `Django` `Laravel` `TypeScript` `Tailwind` `React` `Next.js` `Bootstrap`  `Material-UI` `Framer-Motion`
+**Frameworks:** `Django` `Laravel` `Tailwind` `Next.js` `Bootstrap`   
+
+**Libraries:** `Pandas` `NumPy` `React JS` `Material-UI` `Framer-Motion`
  
-**Version Control:** `Git` `GitLab` `Bitbucket`
+**Developer Tools:** `Git` `GitLab` `Bitbucket` `Docker` `AWS` `Google Cloud` `Digital Ocean` `VS Code` `Jira` `Trello`
 
 **Databases:** `SQL` `NoSQL` `PostgreSQL`
 
 
 **Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
 
-**Others:** `WordPress` `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira` `Trello`
+**Others:** `WordPress` `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Notion`
 
 🌱 I strongly believe in taking [small steps](https://github.com/sumankhdka/learning) each day to get better at my craft. 
 So, Join me on this extraordinary journey of technology and creativity.<br>
