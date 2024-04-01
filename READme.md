@@ -10,7 +10,7 @@
 
 **Programming Language:** `Python` `PHP` `GoLang` `JavaScript` `C` `C++` `TypeScript`
 
-**Libraries & Frameworks:** `Django` `Laravel` `Tailwind` `Next.js` `Bootstrap` `Pandas` `NumPy` `React JS` `Material-UI` `Framer-Motion`  
+**Libraries & Frameworks:** `Django` `Laravel` `Tailwind` `Next.js` `Bootstrap` `Pandas` `NumPy` `React JS` `Material-UI` 
 
 **Developer Tools:** `Git` `GitLab` `Bitbucket` `Docker` `AWS` `Google Cloud` `Digital Ocean` `VS Code` `Jira` `Trello`
 
