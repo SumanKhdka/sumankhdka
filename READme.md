@@ -8,7 +8,7 @@
 
 ## 📦 Tools & Technologies
 
-**Programming Language:** `Python` `PHP` `GoLang` `JavaScript` `C` `C++` `TypeScript`
+**Programming Language:** `Python` `PHP` `GoLang` `JavaScript` `C` `C++` 
 
 **Libraries & Frameworks:** `Django` `Laravel` `Tailwind` `Next.js` `Bootstrap` `Pandas` `NumPy` `React JS` `Material-UI` 
 
